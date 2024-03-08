@@ -1,0 +1,141 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --color-white: #FFFFFF;
+}
+*, ::before, ::after{
+  padding:0;
+  margin:0;
+  box-sizing:border-box;
+}
+.displayNone{
+  display:none;
+}
+html{
+  font-size:16px;
+  font-family: "Roboto", sans-serif;
+
+}
+
+
+
+
+@media screen and (max-width:1496px){
+  section#HomeWithDescription{
+    width:85%;
+  }
+  section#HomeWithDescription>div.wrapperBigBeautifulHouse{
+    transform: translateX(-5rem);
+  }
+}
+
+@media screen and (max-width:1367px){
+  section#HomeWithDescription{
+    width:90%;
+    
+  }
+  section#HomeWithDescription>div.wrapperBigBeautifulHouse{
+    transform: translateX(-5rem);
+  }
+
+  section#Testimonials{
+    width:90%;
+  }
+}
+
+@media screen and (max-width:1268px){
+
+  section#HomeWithDescription{
+   margin-top:0;
+   grid-template-columns: 1fr;
+   margin-bottom:5rem;
+  }
+
+  section#HomeWithDescription>div.wrapperBigBeautifulHouse{
+    transform: translateX(0);
+    width: 100%;
+    height: 30rem
+  }
+
+  section#Testimonials{
+    margin-top:0;
+    padding-top:0;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+
+@media screen and (max-width:1151px){
+  div.individualQuote{
+    max-width:95%;
+
+  }
+
+}
+
+@media screen and (max-width:762px){
+  header#header{
+    flex-direction: column;
+    gap:1rem;
+  }
+
+}
+
+@media screen and (max-width:650px){
+  section#Testimonials{
+    grid-template-columns:1fr;
+  }
+}
+
+@media screen and (max-width:587px){
+  section#hero>div#letUsFindYourFood{
+    position: relative;
+    left: 0;
+    top:0;
+  }
+  section#hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+ 
+}
+@media screen and (max-width:572px){
+  footer#footer>ul, footer#footer>div#socialMediaIcons{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  div.individualQuote{
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+
+  }
+  div.wrapperBlockQuoteAndInterpretation{
+    width: 95%;
+  }
+}
+
+
+
+@media screen and (max-width:491px){
+  header#header>ul{
+   flex-direction: column;
+  }
+  header#header{
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  
+}
+@media screen and (max-width:408px){
+  footer#footer p.loremParagraph{
+    width: 80%;
+  }
+}
