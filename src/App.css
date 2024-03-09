@@ -23,123 +23,97 @@ body{
 }
 
 
-
-
-@media screen and (max-width:1496px){
-  section#HomeWithDescription{
-    width:85%;
+@media screen and (max-width:1350px){
+  div.wrapperCard{
+    width: 98%;
+    height: 35rem;
   }
-  section#HomeWithDescription>div.wrapperBigBeautifulHouse{
-    transform: translateX(-5rem);
-  }
-}
 
-@media screen and (max-width:1367px){
-  section#HomeWithDescription{
-    width:90%;
+  div.wrapperThumbnailImageAndMetadata{
+    width: 50%;
     
   }
-  section#HomeWithDescription>div.wrapperBigBeautifulHouse{
-    transform: translateX(-5rem);
-  }
 
-  section#Testimonials{
-    width:90%;
-  }
-}
-
-@media screen and (max-width:1268px){
-
-  section#HomeWithDescription{
-   margin-top:0;
-   grid-template-columns: 1fr;
-   margin-bottom:5rem;
-  }
-
-  section#HomeWithDescription>div.wrapperBigBeautifulHouse{
-    transform: translateX(0);
-    width: 100%;
-    height: 30rem
-  }
-
-  section#Testimonials{
-    margin-top:0;
-    padding-top:0;
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-
-@media screen and (max-width:1151px){
-  div.individualQuote{
-    max-width:95%;
-
-  }
-
-}
-
-@media screen and (max-width:762px){
-  header#header{
+  div.wrapperRunningTimeAndGenre{
     flex-direction: column;
-    gap:1rem;
-  }
-
-}
-
-@media screen and (max-width:650px){
-  section#Testimonials{
-    grid-template-columns:1fr;
-  }
-}
-
-@media screen and (max-width:587px){
-  section#hero>div#letUsFindYourFood{
-    position: relative;
-    left: 0;
-    top:0;
-  }
-  section#hero{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start;
     
   }
-
- 
-}
-@media screen and (max-width:572px){
-  footer#footer>ul, footer#footer>div#socialMediaIcons{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-  }
-
-  div.individualQuote{
-   flex-direction: column;
-   align-items: center;
-   justify-content: center;
-
-  }
-  div.wrapperBlockQuoteAndInterpretation{
-    width: 95%;
-  }
 }
 
 
-
-@media screen and (max-width:491px){
-  header#header>ul{
-   flex-direction: column;
+@media screen and (max-width:1200px){
+  div.wrapperCard{
+    height: 45rem;
   }
-  header#header{
-    justify-content: center;
+  div.wrapperThumbnailAndDescription{
+    flex-direction: column;
+  }
+  div.wrapperThumbnailImage{
+    height: 20rem;
+    width: 15rem;
+  }
+  div.wrapperThumbnailAndDescription {
+    gap:0rem;
+  }
+
+  div.wrapperRunningTimeAndGenre{
+    flex-direction: row;
     align-items: center;
     
   }
 
-  
 }
-@media screen and (max-width:408px){
-  footer#footer p.loremParagraph{
+
+@media screen and (max-width:1000px){
+  div.wrapperCard{
+    height: 50rem;
+  }
+  div.wrapperThumbnailImageAndMetadata{
+    width: 60%;
+    
+  }
+}
+
+
+@media screen and (max-width:700px){
+  div.wrapperThumbnailImageAndMetadata{
+    width: 70%;
+    height: 90%;
+    border-radius: 1rem;
+  }
+  div.wrapperCard{
+    height: 60rem;
+  }
+}
+
+@media screen and (max-width:500px){
+  div.wrapperThumbnailImageAndMetadata{
     width: 80%;
   }
 }
+
+@media screen and (max-width:430px){
+
+  div.wrapperThumbnailImage{
+    width: 10rem;
+    height: 15rem;
+  }
+  div.wrapperThumbnailImageAndMetadata{
+    width: 100%;
+    height: 100%;
+  }
+  div.wrapperRunningTimeAndGenre{
+    flex-direction: column;
+    align-items: flex-start;
+    
+  }
+  h2.movieTitle{
+    font-size: 1.7rem;
+    line-height: 2rem;
+  }
+  div.wrapperCard{
+    height: 45rem;
+  }
+}
+
