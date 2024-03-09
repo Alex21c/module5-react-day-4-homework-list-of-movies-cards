@@ -8,6 +8,176 @@
     "director": "Gore Verbinski",
     "thumbnail": "thumbnailPiratesOfTheCaribbean.jpg",
     "backgroundPoster": "backgroundPiratesOfTheCaribbean.jpg"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "releaseYear": "2001",
+    "runningTime": "2h 32m",
+    "genre": "Adventure, Family, Fantasy",
+    "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+    "director": "Chris Columbus",
+    "thumbnail": "thumbnail-Harry-Potter-and-the-Sorcerers-Stone.jpg",
+    "backgroundPoster": "background-Harry-Potter-and-the-Sorcerers-Stone.jpg"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "releaseYear": "1981",
+    "runningTime": "1h 55m",
+    "genre": "Action Adventure",
+    "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
+    "director": "Steven Spielberg",
+    "thumbnail": "thumbnail-Raiders-of-the-Lost-Ark.jpg",
+    "backgroundPoster": "backgroundPoster-Raiders-of-the-Lost-Ark.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "releaseYear": "2001",
+    "runningTime": "2h 58m",
+    "genre": "Action, Adventure, Drama",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "director": "Peter Jackson",
+    "thumbnail": "thumbnail-The-Lord-of-the-Rings-The-Fellowship-of-the-Ring.jpg",
+    "backgroundPoster": "backgroundPoster-The-Lord-of-the-Rings-The-Fellowship-of-the-Ring.jpg"
+  },
+  {
+    "title": "Spider-Man",
+    "releaseYear": "2002",
+    "runningTime": "2h 1m",
+    "genre": "Action Adventure Sci-Fi",
+    "description": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+    "director": "Sam Raimi",
+    "thumbnail": "thumbnail-Spider-Man.jpg",
+    "backgroundPoster": "backgroundPoster-Spider-Man.jpg"
+  },
+  {
+    "title": "Forrest Gump",
+    "releaseYear": "1994",
+    "runningTime": "2h 22m",
+    "genre": "Drama Romance",
+    "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+    "director": "Robert Zemeckis",
+    "thumbnail": "thumbnail-Forrest-Gump.jpg",
+    "backgroundPoster": "backgroundPoster-Forrest-Gump.jpg"
+  },
+  {
+    "title": "Gangs of Wasseypur",
+    "releaseYear": "2012",
+    "runningTime": "5h 21m",
+    "genre": "Action Comedy Crime",
+    "description": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
+    "director": "Anurag Kashyap",
+    "thumbnail": "thumbnail-Gangs-of-Wasseypur.jpg",
+    "backgroundPoster": "backgroundPoster-Gangs-of-Wasseypur.jpg"
+  },
+  {
+    "title": "title",
+    "releaseYear": "releaseYear",
+    "runningTime": "runTime",
+    "genre": "genre",
+    "description": "description",
+    "director": "director",
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "backgroundPoster.jpg"
+  },
+  {
+    "title": "title",
+    "releaseYear": "releaseYear",
+    "runningTime": "runTime",
+    "genre": "genre",
+    "description": "description",
+    "director": "director",
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "backgroundPoster.jpg"
+  },
+  {
+    "title": "title",
+    "releaseYear": "releaseYear",
+    "runningTime": "runTime",
+    "genre": "genre",
+    "description": "description",
+    "director": "director",
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "backgroundPoster.jpg"
+  },
+  {
+    "title": "title",
+    "releaseYear": "releaseYear",
+    "runningTime": "runTime",
+    "genre": "genre",
+    "description": "description",
+    "director": "director",
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "backgroundPoster.jpg"
+  },
+  {
+    "title": "title",
+    "releaseYear": "releaseYear",
+    "runningTime": "runTime",
+    "genre": "genre",
+    "description": "description",
+    "director": "director",
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "backgroundPoster.jpg"
+  },
+  {
+    "title": "title",
+    "releaseYear": "releaseYear",
+    "runningTime": "runTime",
+    "genre": "genre",
+    "description": "description",
+    "director": "director",
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "backgroundPoster.jpg"
+  },
+  {
+    "title": "title",
+    "releaseYear": "releaseYear",
+    "runningTime": "runTime",
+    "genre": "genre",
+    "description": "description",
+    "director": "director",
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "backgroundPoster.jpg"
+  },
+  {
+    "title": "title",
+    "releaseYear": "releaseYear",
+    "runningTime": "runTime",
+    "genre": "genre",
+    "description": "description",
+    "director": "director",
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "backgroundPoster.jpg"
+  },
+  {
+    "title": "title",
+    "releaseYear": "releaseYear",
+    "runningTime": "runTime",
+    "genre": "genre",
+    "description": "description",
+    "director": "director",
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "backgroundPoster.jpg"
+  },
+  {
+    "title": "title",
+    "releaseYear": "releaseYear",
+    "runningTime": "runTime",
+    "genre": "genre",
+    "description": "description",
+    "director": "director",
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "backgroundPoster.jpg"
+  },
+  {
+    "title": "title",
+    "releaseYear": "releaseYear",
+    "runningTime": "runTime",
+    "genre": "genre",
+    "description": "description",
+    "director": "director",
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "backgroundPoster.jpg"
   }
 
 

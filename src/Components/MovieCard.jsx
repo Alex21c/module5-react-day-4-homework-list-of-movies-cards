@@ -1,13 +1,13 @@
 export default function MovieCard({movieData}){
   // console.log(movieData);
   return (
-    <div className="relative w-[80rem] h-[30rem] rounded-2xl overflow-hidden m-[auto] shadow-lg shadow-amber-600" > 
+    <div className="relative w-[80rem] h-[30rem] rounded-2xl overflow-hidden m-[auto] shadow-lg shadow-cyan-600" > 
       <div className="absolute w-[100%] h-[100%]">
         <img className="object-cover w-[100%] h-[100%] opacity-[.7]" src={require(`../Assests/Images/Movies/${movieData.backgroundPoster}`)} alt={`Background poster image for movie : ${movieData.title}`} />
       </div>
       <div className="absolute bg-gradient-to-r from-gray-800 to-gray-950 opacity-[.9] text-gray-300 max-w-[40rem] flex flex-col pb-[1rem] p-[2rem] h-[100%] justify-between rounded-bl-lg">
         <div className="flex gap-[2rem]">
-          <div className="w-[25rem] h-[17rem]">
+          <div className="min-w-[15rem] max-w-[25rem] h-[17rem]">
             <img className="rounded-md object-fill w-[100%] h-[100%]" src={require(`../Assests/Images/Movies/${movieData.thumbnail}`)} alt={`thumbnail image for movie : ${movieData.title}`} />
           </div>
           <div className="flex flex-col gap-[.8rem]">

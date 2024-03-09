@@ -5,19 +5,19 @@
     "genre": "genre",
     "description": "description",
     "director": "director",
-    "thumbnail": "thumbnail",
-    "backgroundPoster": "poster"
+    "thumbnail": "thumbnail.jpg",
+    "backgroundPoster": "poster.jpg"
   }
 
-  backgroundPiratesOfTheCaribbean
 
-harry potter
-imdb indiana jones
-imdb lord of the rings
-imdb spider man
-imdb forest gump
-imdb gold rush alaska
-imdb gangs of wasseypur i and ii
+
+
+
+
+
+
+
+
 imdb shawshank redemption
 imdb schindler's list
 imdb the matrix
