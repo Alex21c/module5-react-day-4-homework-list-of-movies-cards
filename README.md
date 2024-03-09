@@ -1,5 +1,5 @@
 # M5React - Day 4 HomeWork List of Movies Cards
-![](thumbnail.png)
+![](thumbnail.jpg)
 
 ## Hosted Version of the Project:
 [module5-react-day-4-homework-list-of-movies-cards](https://module5-react-day-4-homework-list-of-movies-cards.vercel.app/)
