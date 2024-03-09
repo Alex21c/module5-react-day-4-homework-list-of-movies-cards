@@ -8,10 +8,10 @@ import moviesCardsData from './moviesCardsData.json';
 function App() {
   
   return (
-    <div>
-
+    <div className='flex flex-col gap-[1rem] pt-[1rem]'>
+        <h1 className='displayNone'>Module5 React Day 4 HomeWork List of Movies Cards</h1>
       
-        {moviesCardsData.map((movieCardsData, idx)=><MovieCard key={idx} movieCardsData={movieCardsData} />)}
+        {moviesCardsData.map((movieData, idx)=><MovieCard key={idx} movieData={movieData} />)}
       
         
       
